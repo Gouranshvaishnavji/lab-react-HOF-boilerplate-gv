@@ -1,0 +1,48 @@
+/* styles.css */
+
+/* Style the display-all section */
+.display-all {
+  background-color: #a15454;
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.onusertype {
+  background-color: #6aa7c4;
+  padding: 15px;
+  border: 1px solid #b3d9ff;
+  border-radius: 3px;
+  margin-bottom: 15px;
+}
+
+.startwith-j {
+  background-color: #24df24;
+  padding: 15px;
+  border: 1px solid #99e699;
+  border-radius: 3px;
+  margin-bottom: 15px;
+}
+
+.getage {
+  background-color: #eb8e36;
+  padding: 15px;
+  border: 1px solid #e6b800;
+  border-radius: 3px;
+  margin-bottom: 15px;
+}
+
+.display-box {
+  background-color: #ce3333;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.list-elements {
+  list-style: none;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
